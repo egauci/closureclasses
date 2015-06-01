@@ -1,14 +1,9 @@
 {
   "name": "closureclasses",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An alternative to classes, based on talk by Douglas Crockford",
   "main": "index.js",
   "dependencies": {
-    "chalk": "^1.0.0",
-    "babel": "^5.4.7",
-    "learnyoureact": "^0.9.4"
-  },
-  "devDependencies": {
     "babel": "^5.4.7"
   },
   "scripts": {
